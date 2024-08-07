@@ -11,3 +11,51 @@ header {
     align-items: center;
     justify-content: center;  
 }
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.mainPhoto {
+    background-color: bisque;
+    height: 630px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.headerBox {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px
+}
+.photo {
+    display: flex;
+    justify-content: center;
+}
+.photo img {
+    height: 400px;
+    widht: 100vw;
+    padding: 10px;
+}
+.footer p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    padding: 25px;
+}
+.
+
+
+
+
+
+
+
+
+
+
+
+
